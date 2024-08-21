@@ -84,16 +84,4 @@ Este programa verifica si una oración ingresada por el usuario es un palíndrom
 
 - Java Development Kit (JDK) 8 o superior.
 
-## Contribuir
 
-Si deseas contribuir a este proyecto, puedes hacerlo de la siguiente manera:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza los cambios necesarios y haz un commit (`git commit -m 'Agregar nueva funcionalidad'`).
-4. Envía tus cambios (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
